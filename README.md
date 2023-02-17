@@ -14,7 +14,8 @@ https://colab.research.google.com/drive/1IMdgwh9X3emRhwiMPITAa342FEjKeqMX?usp=sh
 hyperparameters: lr0=0.01, lrf=0.1, momentum=0.937, weight_decay=0.0005, warmup_epochs=3.0, warmup_momentum=0.8, warmup_bias_lr=0.1, box=0.05, cls=0.3, cls_pw=1.0, obj=0.7, obj_pw=1.0, iou_t=0.2, anchor_t=4.0, fl_gamma=0.0, hsv_h=0.015, hsv_s=0.7, hsv_v=0.4, degrees=0.0, translate=0.2, scale=0.9, shear=0.0, perspective=0.0, flipud=0.0, fliplr=0.5, mosaic=1.0, mixup=0.15, copy_paste=0.0, paste_in=0.15, loss_ota=1
 Model Summary: 415 layers, 37234314 parameters used
 ## Output
-### Class      Images      Labels           P           R      mAP@.5  mAP@.5:.95: 100% 5/5 [00:02<00:00,  2.45it/s]
+### 
+Class      Images      Labels           P           R      mAP@.5  mAP@.5:.95: 100% 5/5 [00:02<00:00,  2.45it/s]
                  all          33          90       0.724       0.333       0.321       0.144
                Crack          33          17       0.849       0.412        0.46       0.171
        Efflorescence          33          38       0.371       0.395       0.281        0.11
