@@ -5,3 +5,4 @@
 ### YOLO V7 consists of a backbone CNN, followed by a neck and head. The backbone CNN is a series of convolutional layers that extract features from the input image. The neck is a set of additional convolutional layers that help the model to integrate contextual information from different scales. Finally, the head is a set of convolutional layers that predict the bounding boxes and class probabilities.
 ## Link for Colab Notebook:
 https://colab.research.google.com/drive/1IMdgwh9X3emRhwiMPITAa342FEjKeqMX?usp=sharing
+## To see the already runned notebook visit to Defect Detection using YOLO Notebook.
