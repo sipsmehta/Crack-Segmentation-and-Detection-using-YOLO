@@ -23,6 +23,8 @@ Class      Images      Labels           P           R      mAP@.5  mAP@.5:.95: 1
              Scaling          33           2           1           0           0           0
                Spall          33           7       0.599       0.714       0.718       0.407
 5 epochs completed in 1.392 hours.
-![image](https://user-images.githubusercontent.com/69897673/219551011-76f1e272-1997-4ad0-9c84-e06adf29a38b.png)
-![image](https://user-images.githubusercontent.com/69897673/219551043-e54571f5-6a51-44ca-a1af-c3c756159bdc.png)
+
+
+### ![image](https://user-images.githubusercontent.com/69897673/219551011-76f1e272-1997-4ad0-9c84-e06adf29a38b.png)
+### ![image](https://user-images.githubusercontent.com/69897673/219551043-e54571f5-6a51-44ca-a1af-c3c756159bdc.png)
 
