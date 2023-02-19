@@ -1,16 +1,16 @@
 # Instance Segmentation using YOLO V8
 ## Link For Notebbok: https://colab.research.google.com/drive/1EIt6GyWeNy2qPT0170c-jFxPFiHcovrZ?usp=sharing
-## YOLO (You Only Look Once) is a popular object detection algorithm that can also be used for instance segmentation. Instance segmentation involves not only detecting objects in an image, but also segmenting them into individual instances.
+### Instance segmentation involves not only detecting objects in an image, but also segmenting them into individual instances.
 
-To perform instance segmentation using YOLO, you can follow these general steps:
+### To perform instance segmentation using YOLO, you can follow these general steps:
 
-Train a YOLO model on a dataset that includes annotations for both object detection and segmentation. The annotations should include bounding boxes for the objects as well as segmentation masks for each instance.
+### Train a YOLO model on a dataset that includes annotations for both object detection and segmentation. The annotations should include bounding boxes for the objects as well as segmentation masks for each instance.
 
-Modify the YOLO architecture to output both the bounding boxes and segmentation masks for each detected object. This can be done by adding additional output channels to the network.
+### Modify the YOLO architecture to output both the bounding boxes and segmentation masks for each detected object. This can be done by adding additional output channels to the network.
 
-During inference, run the YOLO model on an input image and use the output segmentation masks to segment each object into its individual instance. This can be done by applying a segmentation algorithm, such as watershed or mean shift, to the segmentation masks.
+### During inference, run the YOLO model on an input image and use the output segmentation masks to segment each object into its individual instance. This can be done by applying a segmentation algorithm, such as watershed or mean shift, to the segmentation masks.
 
-Finally, post-process the segmented instances to refine the results and remove any false positives or duplicates.
+### Finally, post-process the segmented instances to refine the results and remove any false positives or duplicates.
 
 ### albumentations: Blur(p=0.01, blur_limit=(3, 7)), MedianBlur(p=0.01, blur_limit=(3, 7)), ToGray(p=0.01), CLAHE(p=0.01, clip_limit=(1, 4.0), tile_grid_size=(8, 8))
 
