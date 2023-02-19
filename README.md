@@ -68,6 +68,11 @@
                  
                  Class     Images  Instances      Box(P          R      mAP50  mAP50-95)     Mask(P          R      mAP50  mAP50-95): 100% 7/7 [00:09<00:00,  1.34s/it]
                    all        200        249      0.815      0.795      0.806      0.581      0.791      0.653      0.652      0.228
+### ![image](https://user-images.githubusercontent.com/69897673/219972468-797ec489-3cd8-4264-8c30-dff4995dd36f.png)
+
+### ![image](https://user-images.githubusercontent.com/69897673/219972514-22a13637-e507-4413-b9a4-9053f3f5cbdd.png)
+
+### ![image](https://user-images.githubusercontent.com/69897673/219972450-c4ee56b8-53e4-4f71-b139-b98fea6b8a8b.png)
 
 
 
