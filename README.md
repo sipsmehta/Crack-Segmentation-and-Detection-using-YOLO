@@ -68,14 +68,14 @@
                  YOLOv8s-seg summary (fused): 195 layers, 11780374 parameters, 0 gradients, 42.4 GFLOPs
                  Class     Images  Instances      Box(P          R      mAP50  mAP50-95)     Mask(P          R      mAP50  mAP50-95): 100% 3/3 [00:03<00:00,  1.21s/it]
                    all         73        102      0.665      0.627      0.647      0.357      0.715      0.665      0.691      0.302
-   Cracks-and-spalling         73         44      0.698      0.788      0.777      0.442      0.768      0.864      0.866       0.44
-                object         73         58      0.633      0.466      0.517      0.273      0.662      0.466      0.516      0.165
+                   Cracks-and-spalling         73         44      0.698      0.788      0.777      0.442      0.768      0.864      0.866       0.44
+                  object         73         58      0.633      0.466      0.517      0.273      0.662      0.466      0.516      0.165
                 
-### ![image](https://user-images.githubusercontent.com/69897673/219972468-797ec489-3cd8-4264-8c30-dff4995dd36f.png)
+### ![image](https://user-images.githubusercontent.com/69897673/220198782-676ae15a-813f-46d8-91b7-4d10a9ed52ca.png)
 
-### ![image](https://user-images.githubusercontent.com/69897673/219972514-22a13637-e507-4413-b9a4-9053f3f5cbdd.png)
+### ![image](https://user-images.githubusercontent.com/69897673/220198805-0cb164e1-8d44-4ee1-a144-71d12607c230.png)
 
-### ![image](https://user-images.githubusercontent.com/69897673/219972450-c4ee56b8-53e4-4f71-b139-b98fea6b8a8b.png)
+### ![image](https://user-images.githubusercontent.com/69897673/220198828-abee7867-1619-4c31-bcca-75305fdc5fd2.png)
 
 
 
